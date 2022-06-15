@@ -1,4 +1,4 @@
-# Selfie-biometrics-periocular-iris
+# Selfie Periocular Verification using an Efficient Super-Resolution Approach
 
 Juan E. Tapia, Andres Valenzuela, Rodrigo Lara, Marta Gomez-Barrero and~Christoph Busch.
 
@@ -26,6 +26,8 @@ To appears netx days.
 # Databases
 
 To appears netx days.
+
+# Cited 
 
 
 # Information
