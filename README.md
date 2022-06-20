@@ -21,11 +21,11 @@ the FaceNet-based system yielded an EER of 8.92% for a resizing of x2, 8.85% for
 
 # Models
 
-To appears netx days.
+Available netx days.
 
 # Databases
 
-To appears netx days.
+Available netx days.
 
 # Cited 
 
