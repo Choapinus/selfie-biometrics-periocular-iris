@@ -29,6 +29,16 @@ Available netx days.
 
 # Cited 
 
+@ARTICLE{9800712,
+  author={Tapia, Juan E. and Valenzuela, Andres and Lara, Rodrigo and Gomez-Barrero, Marta and Busch, Christoph},
+  journal={IEEE Access}, 
+  title={Selfie Periocular Verification using an Efficient Super-Resolution Approach}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/ACCESS.2022.3184301}}
+
 
 # Information
 juan.tapia-farias@h-da.de
