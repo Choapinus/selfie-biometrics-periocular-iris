@@ -27,7 +27,7 @@ Available netx days.
 
 Available netx days.
 
-# Cited 
+# Citation 
 
 @ARTICLE{9800712,
   author={Tapia, Juan E. and Valenzuela, Andres and Lara, Rodrigo and Gomez-Barrero, Marta and Busch, Christoph},
