@@ -133,3 +133,5 @@ models/*
 data/*
 weights/*
 output/*
+documents/*
+graphs/*
