@@ -131,7 +131,6 @@ test/
 
 models/*
 data/*
-weights/*
 output/*
 documents/*
 graphs/*
