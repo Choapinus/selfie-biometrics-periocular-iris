@@ -269,7 +269,9 @@ class TensorflowGraph(tf.Graph):
         else:
             filename = self.checkpoint_dir + "/" + name + ".ckpt"
 
-        if not os.path.isfile(filename + ".index"):
+        if not os.path.isfile(
+            os.path.abspath(filename + ".index")
+        ):
             print("Error. [%s] is not exist!" % filename)
             exit(-1)
 

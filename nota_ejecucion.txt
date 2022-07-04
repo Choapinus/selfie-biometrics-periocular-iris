@@ -1,0 +1,1 @@
+python sr.py --checkpoint_dir=weights/ESIR/x4/models --scale=4 --layers=7 --filters=32 --min_filters=8 --filters_decay_gamma=1.2 --nin_filters=24 --nin_filters2=8 --reconstruct_layers=0 --self_ensemble=1 --pixel_shuffler_filters=1 --folder_images=data/mobbio

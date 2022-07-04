@@ -1,0 +1,1 @@
+la diferencia entre unos y otros es que los do_real_sr aplican SR a las imagenes downscaleadas

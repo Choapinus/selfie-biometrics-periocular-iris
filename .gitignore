@@ -129,4 +129,6 @@ test/
 
 .vscode/
 
-models/checkpoint
+models/*
+data/*
+weights/*
