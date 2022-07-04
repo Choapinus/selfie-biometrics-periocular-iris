@@ -21,11 +21,17 @@ the FaceNet-based system yielded an EER of 8.92% for a resizing of x2, 8.85% for
 
 # Models
 
-Available netx days.
+* [SR x2](https://github.com/Choapinus/selfie-biometrics-periocular-iris/tree/master/weights/ESIR/x2/models)
+* [SR x3](https://github.com/Choapinus/selfie-biometrics-periocular-iris/tree/master/weights/ESIR/x3/models)
+* [SR x4](https://github.com/Choapinus/selfie-biometrics-periocular-iris/tree/master/weights/ESIR/x4/models)
 
 # Databases
 
 Available netx days.
+
+# How to Use
+
+Check [shell-codes folder](https://github.com/Choapinus/selfie-biometrics-periocular-iris/tree/master/NTNU_SR_shell_codes)
 
 # Citation 
 ```
