@@ -19,7 +19,7 @@ the FaceNet-based system yielded an EER of 8.92% for a resizing of x2, 8.85% for
 ![Figure1_graphical_abstract](https://user-images.githubusercontent.com/45126159/173895776-e3033d81-ee3f-4e61-8bff-620f7f07a8c7.png)
 
 
-# SR-ESISR Models
+# SR-ESISR Pre-trained Models
 
 * [ESISR x2](https://github.com/Choapinus/selfie-biometrics-periocular-iris/tree/master/weights/ESIR/x2/models)
 * [ESISR x3](https://github.com/Choapinus/selfie-biometrics-periocular-iris/tree/master/weights/ESIR/x3/models)
