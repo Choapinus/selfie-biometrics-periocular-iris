@@ -19,7 +19,7 @@ the FaceNet-based system yielded an EER of 8.92% for a resizing of x2, 8.85% for
 ![Figure1_graphical_abstract](https://user-images.githubusercontent.com/45126159/173895776-e3033d81-ee3f-4e61-8bff-620f7f07a8c7.png)
 
 
-# Models
+# SR-DCSCN Models
 
 * [SR x2](https://github.com/Choapinus/selfie-biometrics-periocular-iris/tree/master/weights/ESIR/x2/models)
 * [SR x3](https://github.com/Choapinus/selfie-biometrics-periocular-iris/tree/master/weights/ESIR/x3/models)
@@ -29,9 +29,23 @@ the FaceNet-based system yielded an EER of 8.92% for a resizing of x2, 8.85% for
 
 Available netx days.
 
-# How to Use
+# How to make env and use SR
 
-Check [shell-codes folder](https://github.com/Choapinus/selfie-biometrics-periocular-iris/tree/master/NTNU_SR_shell_codes)
+```
+conda create --file env.yml
+conda activate super-res
+
+# do super-resolution x2
+python sr.py --folder_images /path/to/input/images/ --output_dir /output/folder/dir --checkpoint_dir weights/ESIR/x2/models --scale=2 --layers=7 --filters=32 --min_filters=8 --filters_decay_gamma=1.2 --nin_filters=24 --nin_filters2=8 --reconstruct_layers=0 --self_ensemble=1 --pixel_shuffler_filters=1
+
+# do super-resolution x3
+python sr.py --folder_images /path/to/input/images/ --output_dir /output/folder/dir --checkpoint_dir weights/ESIR/x3/models --scale=3 --layers=7 --filters=32 --min_filters=8 --filters_decay_gamma=1.2 --nin_filters=24 --nin_filters2=8 --reconstruct_layers=0 --self_ensemble=1 --pixel_shuffler_filters=1
+
+# do super-resolution x4
+python sr.py --folder_images /path/to/input/images/ --output_dir /output/folder/dir --checkpoint_dir weights/ESIR/x4/models --scale=3 --layers=7 --filters=32 --min_filters=8 --filters_decay_gamma=1.2 --nin_filters=24 --nin_filters2=8 --reconstruct_layers=0 --self_ensemble=1 --pixel_shuffler_filters=1
+```
+
+More examples in [shell-codes folder](https://github.com/Choapinus/selfie-biometrics-periocular-iris/tree/master/NTNU_SR_shell_codes)
 
 # Citation 
 ```
