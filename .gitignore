@@ -129,8 +129,11 @@ test/
 
 .vscode/
 
-models/*
+models/
 data/*
 output/*
 documents/*
 graphs/*
+train.py
+evaluate.py
+augmentation.py
