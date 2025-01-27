@@ -65,8 +65,8 @@ More examples in [shell-codes folder](https://github.com/Choapinus/selfie-biomet
 
 @juan.tapia-farias@h-da.de
 
-@andres.valenzuela@tocbiometrics.com
+@andres.valenzuela@
 
 
 # Disclaimer
-The dataset, the implementation, or trained models used is restricted to research purposes. Using the dataset or the implementation/trained models for product development or comercial product is not allowed. This project is licensed under the terms of the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
+The dataset, the implementation, or trained models used is restricted to research purposes. Using the dataset or the implementation/trained models for product development or commercial products is not allowed. This project is licensed under the terms of the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
