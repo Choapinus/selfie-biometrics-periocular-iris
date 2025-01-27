@@ -65,7 +65,7 @@ More examples in [shell-codes folder](https://github.com/Choapinus/selfie-biomet
 
 @juan.tapia-farias@h-da.de
 
-@andres.valenzuela@
+@andres.valenzuela.g@usach.cl
 
 
 # Disclaimer
